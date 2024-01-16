@@ -16,4 +16,4 @@ const tareasSchema = new Schema({
     }
 );
 
-export default model('Tareas', tareasSchema)
+export default model('Tarea', tareasSchema)
