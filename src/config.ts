@@ -8,5 +8,5 @@ export default {
     MONGO_USER: process.env.MONGO_USER || 'admin',
     MONGO_PASS: process.env.MONGO_PASS || 'admin',
     MONGO_HOST: process.env.MONGO_HOST || 'localhost',
-    PORT: process.env.PORT 
+    PORT: process.env.PORT || 5000
 }
